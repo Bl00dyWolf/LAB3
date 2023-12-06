@@ -137,3 +137,5 @@ collections/
 
 # Vagrant
 .vagrant/
+.yml
+.cfg
